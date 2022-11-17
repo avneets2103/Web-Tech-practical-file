@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+#first{
+    
+    text-align: center;
+    color:white;
+    background-color:red;
+    height: 70px;
+    width:150px;
+}
+
+#second{
+    text-align: center;
+    z-index: 2;
+    top: 52px;
+    left:125px;
+    position: absolute;
+    color:white;
+    background-color:purple;
+    height: 70px;
+    width:150px;
+}
+#third{
+    text-align: center;
+    top: 110px;
+    left:250px;
+    position: absolute;
+    color:white;
+    background-color:green;
+    height: 70px;
+    width:150px;
+}

@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(221, 183, 183);
+    font-family: 'Raleway', sans-serif;
+}
+
+.head{
+    margin:0;
+    padding:0;
+}
+
+.heading{
+    margin-left:2.5%;
+    line-height:0.5;
+}
+
+.line{
+    font-size: larger;
+    font-family: 'Sacramento', cursive;
+}
+
+ul{
+    margin:0;
+    display: flex;
+}
+
+li{
+    margin:0 20px;
+}
+
+hr{
+    width:95%;
+}
+
+.main{
+    margin-left:2.5%;
+    margin-right:2.5%;
+}
+
+img{
+    float: left;
+    padding:20px;
+    padding-top:0;
+    padding-left: 0;
+}
+
