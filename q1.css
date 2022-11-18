@@ -1,6 +1,11 @@
 td{
-    border:2px black solid;
+    border:0.5px black solid;
     text-align: center;
+    padding:5px;
+}
+
+table{
+    border: 1px black solid;
     padding:5px;
 }
 
